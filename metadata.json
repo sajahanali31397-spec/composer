@@ -1,0 +1,6 @@
+{
+  "name": "Antigravity Compressor",
+  "description": "A high-performance image and PDF compressor that shrinks MBs to exact KB targets while preserving critical document sharpness, QR codes, and government doc readability locally in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
